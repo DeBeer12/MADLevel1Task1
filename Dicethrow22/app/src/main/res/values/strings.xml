@@ -1,0 +1,8 @@
+<resources>
+    <string name="lastThrow">Last throw:</string>
+    <string name="score">0</string>
+    <string name="less">Less</string>
+    <string name="equal">Equal</string>
+    <string name="more">More</string>
+    <string name="app_name">Dice throw</string>
+</resources>
